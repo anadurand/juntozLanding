@@ -15,9 +15,14 @@
 
     if (gender != "" && email.val() != "") {
         if (email.val().match(regexmail)) {
+            $.post("/subscribe", {
+                "email": email.val(),
+                "gender": gender
+            });
             email.val(email.attr('placeholder'));
             errorText.hide();
             successText.show();
+            
         }
         
     } else {
