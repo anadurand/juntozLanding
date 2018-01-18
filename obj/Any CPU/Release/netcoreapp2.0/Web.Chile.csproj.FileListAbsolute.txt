@@ -1,0 +1,11 @@
+c:\users\ana\source\repos\Web.Chile\Web.Chile\bin\Any CPU\Release\netcoreapp2.0\Web.Chile.deps.json
+c:\users\ana\source\repos\Web.Chile\Web.Chile\bin\Any CPU\Release\netcoreapp2.0\Web.Chile.runtimeconfig.json
+c:\users\ana\source\repos\Web.Chile\Web.Chile\bin\Any CPU\Release\netcoreapp2.0\Web.Chile.runtimeconfig.dev.json
+c:\users\ana\source\repos\Web.Chile\Web.Chile\bin\Any CPU\Release\netcoreapp2.0\Web.Chile.dll
+c:\users\ana\source\repos\Web.Chile\Web.Chile\bin\Any CPU\Release\netcoreapp2.0\Web.Chile.pdb
+c:\users\ana\source\repos\Web.Chile\Web.Chile\obj\Any CPU\Release\netcoreapp2.0\Web.Chile.csprojResolveAssemblyReference.cache
+c:\users\ana\source\repos\Web.Chile\Web.Chile\obj\Any CPU\Release\netcoreapp2.0\Web.Chile.csproj.CoreCompileInputs.cache
+c:\users\ana\source\repos\Web.Chile\Web.Chile\obj\Any CPU\Release\netcoreapp2.0\Web.Chile.AssemblyInfoInputs.cache
+c:\users\ana\source\repos\Web.Chile\Web.Chile\obj\Any CPU\Release\netcoreapp2.0\Web.Chile.AssemblyInfo.cs
+c:\users\ana\source\repos\Web.Chile\Web.Chile\obj\Any CPU\Release\netcoreapp2.0\Web.Chile.dll
+c:\users\ana\source\repos\Web.Chile\Web.Chile\obj\Any CPU\Release\netcoreapp2.0\Web.Chile.pdb

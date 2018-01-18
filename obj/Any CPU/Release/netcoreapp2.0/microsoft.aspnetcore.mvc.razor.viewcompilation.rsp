@@ -1,0 +1,10 @@
+c:\users\ana\source\repos\Web.Chile\Web.Chile
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=Web.Chile
+--content-root=c:\users\ana\source\repos\Web.Chile\Web.Chile
+--file=c:\users\ana\source\repos\Web.Chile\Web.Chile\Views\Home\Index.cshtml
+--file=c:\users\ana\source\repos\Web.Chile\Web.Chile\Views\Shared\Error.cshtml
+--file=c:\users\ana\source\repos\Web.Chile\Web.Chile\Views\Shared\_Layout.cshtml
+--file=c:\users\ana\source\repos\Web.Chile\Web.Chile\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=c:\users\ana\source\repos\Web.Chile\Web.Chile\Views\_ViewImports.cshtml
+--file=c:\users\ana\source\repos\Web.Chile\Web.Chile\Views\_ViewStart.cshtml
